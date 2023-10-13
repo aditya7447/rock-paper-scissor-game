@@ -124,7 +124,7 @@ p{
         padding: 10px;
         margin-left:10px;
         margin-right: 10px;
-        margin-top: 50px; /* Adjust the margin for smaller screens */
+        margin-top: 70px; /* Adjust the margin for smaller screens */
     }
 
     h1 {
@@ -132,35 +132,37 @@ p{
     }
 
     h2 {
-        font-size: 1rem; /* Reduce the font size for h2 on mobile */
+        font-size: 1.3rem; /* Reduce the font size for h2 on mobile */
     }
 
     button {
         font-size: 1.5rem; /* Reduce the font size for buttons on mobile */
-        margin: 0 0.2rem; /* Adjust button margins for smaller screens */
+        margin: 0 0.3rem; /* Adjust button margins for smaller screens */
     }
     
     p {
-        font-size: 1rem; /* Reduce the font size for paragraphs on mobile */
+        font-size: 1.3rem; /* Reduce the font size for paragraphs on mobile */
     }
     #result_tie{
-        font-size: 1rem;
+        font-size: 1.3rem;
     }
     #result_win{
-        font-size: 1rem;
+        font-size: 1.3rem;
         
     }#result_lose{
-        font-size: 1rem;
+        font-size: 1.3rem;
        
     }
     #userScore{
-        font-size: 1rem;
+        font-size: 1.3rem;
         
     }
     #computerScore{
-        font-size: 1rem;
+        font-size: 1.3rem;
         
     }
+    .score{
+        font-size:1.3rem;
 
     /* Adjust other styles for mobile as needed */
 }
