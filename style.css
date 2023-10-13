@@ -71,3 +71,30 @@ p{
 .score{
     margin-top:-5px;
 }
+
+@media screen and (max-width: 768px) {
+    .container {
+        margin-top: 30px; /* Adjust the margin for smaller screens */
+    }
+
+    h1 {
+        font-size: 2rem; /* Reduce the font size for h1 on mobile */
+    }
+
+    h2 {
+        font-size: 1.5rem; /* Reduce the font size for h2 on mobile */
+    }
+
+    button {
+        font-size: 2rem; /* Reduce the font size for buttons on mobile */
+        margin: 0 0.2rem; /* Adjust button margins for smaller screens */
+    }
+
+    p {
+        font-size: 1.5rem; /* Reduce the font size for paragraphs on mobile */
+    }
+
+    /* Adjust other styles for mobile as needed */
+}
+
+
