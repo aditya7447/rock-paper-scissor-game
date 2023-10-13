@@ -74,6 +74,8 @@ p{
 
 @media screen and (max-width: 600px) {
     .container {
+        margin-left:10px;
+        margin-right: 10px;
         margin-top: 30px; /* Adjust the margin for smaller screens */
     }
 
@@ -91,10 +93,10 @@ p{
     }
 
     p {
-        font-size: 1rem; /* Reduce the font size for paragraphs on mobile */
+        font-size: 0.2rem; /* Reduce the font size for paragraphs on mobile */
     }
     span{
-        font-size: 1rem;
+        font-size: 0.2rem;
     }
 
     /* Adjust other styles for mobile as needed */
@@ -102,6 +104,8 @@ p{
 @media screen and (min-width: 600px) {
     .container {
         padding: 10px;
+        margin-left:10px;
+        margin-right: 10px;
         margin-top: 50px; /* Adjust the margin for smaller screens */
     }
 
@@ -119,10 +123,10 @@ p{
     }
     
     p {
-        font-size: 1rem; /* Reduce the font size for paragraphs on mobile */
+        font-size: 0.5rem; /* Reduce the font size for paragraphs on mobile */
     }
     span{
-        font-size: 1rem;
+        font-size: 0.5rem;
     }
 
     /* Adjust other styles for mobile as needed */
