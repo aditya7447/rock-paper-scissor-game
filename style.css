@@ -93,11 +93,29 @@ p{
     }
 
     p {
-        font-size: 0.2rem; /* Reduce the font size for paragraphs on mobile */
+        font-size: 0.5rem; /* Reduce the font size for paragraphs on mobile */
     }
     span{
-        font-size: 0.2rem;
+        font-size: 0.5rem;
     }
+     #result_tie{
+    font-size: 1rem;
+}
+#result_win{
+    font-size: 1rem;
+    
+}#result_lose{
+    font-size: 1rem;
+   
+}
+#userScore{
+    font-size: 1rem;
+    
+}
+#computerScore{
+    font-size: 1rem;
+    
+}
 
     /* Adjust other styles for mobile as needed */
 }
@@ -123,10 +141,28 @@ p{
     }
     
     p {
-        font-size: 0.5rem; /* Reduce the font size for paragraphs on mobile */
+        font-size: 1rem; /* Reduce the font size for paragraphs on mobile */
     }
     span{
-        font-size: 0.5rem;
+        font-size: 1rem;
+    }
+    #result_tie{
+        font-size: 1rem;
+    }
+    #result_win{
+        font-size: 1rem;
+        
+    }#result_lose{
+        font-size: 1rem;
+       
+    }
+    #userScore{
+        font-size: 1rem;
+        
+    }
+    #computerScore{
+        font-size: 1rem;
+        
     }
 
     /* Adjust other styles for mobile as needed */
